@@ -2,6 +2,6 @@ beautifulsoup4==4.9.1
 bs4==0.0.1
 emoji==0.5.4
 pyTelegramBotAPI==3.7.1
-requests==2.7.0
+requests==2.20.0
 six==1.15.0
 soupsieve==2.0.1
